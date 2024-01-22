@@ -1,6 +1,7 @@
 # Web Mining IE684
 
 Presented by: 
+
   Eliana Ruslanova   
   Elina Tugaeva   
   Maida Nazifi    
